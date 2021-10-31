@@ -1,0 +1,5 @@
+name,address,count(tbl_book_loans.cardNo)
+"Ricky Hurndall","7 Stoughton Junction",6
+"Calida Radage","7569 Mendota Terrace",6
+"Baird Ruttgers","2 Forest Run Park",6
+"Derron Larking","3051 Elgar Hill",6

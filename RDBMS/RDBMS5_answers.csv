@@ -1,0 +1,51 @@
+branchName,COUNT(tbl_book_loans.branchId)
+Sharpstown,15
+Central,21
+Boyd,21
+Arkansas,16
+Pierstorff,31
+Prentice,20
+Derek,7
+Nelson,17
+Hoard,21
+Dakota,24
+Transport,30
+Hoffman,17
+David,15
+Longview,23
+Thackeray,15
+Stoughton,21
+Tennessee,29
+Knutson,25
+Redwing,17
+Steensland,24
+"Eagle Crest",19
+Sommers,14
+Southridge,8
+Kenwood,14
+Scofield,24
+Jenifer,31
+Marquette,26
+"Red Cloud",19
+Forest,21
+Bartelt,26
+Cambridge,20
+Homewood,20
+Sunbrook,12
+Northview,24
+Banding,16
+Menomonie,26
+Barnett,30
+"Ridge Oak",16
+Trailsway,19
+Farragut,25
+Ruskin,15
+Victoria,19
+Blaine,14
+Jackson,19
+Birchwood,18
+Hauk,17
+"Twin Pines",23
+"Clyde Gallagher",19
+Mayfield,14
+Atwood,23
